@@ -9,6 +9,8 @@
 [Proof I Can Code |](#proof-i-can-code)
 [Meme](#meme)
 
+![](headshot (2).jpg)
+
 ## Education
 
 - Highschool @ [Rancho Bernado High School](https://www.powayusd.com/en-US/Schools/HS/RBHS/HOME)
