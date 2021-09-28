@@ -1,6 +1,8 @@
 
 # Maryam Dehaini's Page
 
+![image](headshot (2).jpg)
+
 ## Experience
 
 **AWS Solution Architect**
