@@ -1,7 +1,7 @@
 
 # Maryam Dehaini's Page
 
-! [image](https://github.com/mdehaini/CSE110/blob/Using_Markdown/headshot%20(2).jpg)
+! [image](headshot (2).jpg)
 
 ## Experience
 
