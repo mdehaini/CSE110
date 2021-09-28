@@ -1,6 +1,14 @@
 
 # Maryam Dehaini's Page
 
+[Education |](#education)
+[Experience |](#experience)
+[Languages |](#languages)
+[Professional Goals |](#professional-goals)
+[Favorite Quote |](#favorite-quote)
+[Proof I Can Code |](#proof-i-can-code)
+[Meme](#meme)
+
 ## Education
 
 - Highschool @ [Rancho Bernado High School](https://www.powayusd.com/en-US/Schools/HS/RBHS/HOME)
@@ -51,6 +59,7 @@ public static void main(String[] args){
   System.out.println("I Can Code!");
 }
 ```
+
+## Meme
 Click [here](meme.jpg) for a meme
 
-[test](#languages)
