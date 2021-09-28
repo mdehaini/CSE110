@@ -6,7 +6,7 @@
 (Education)[##education]
 
 
-##education
+## education
 
 - Highschool @ [Rancho Bernado High School](https://www.powayusd.com/en-US/Schools/HS/RBHS/HOME)
 - Bachelors @ [UCSD](https://ucsd.edu/) majoring in Computer Engineering 
