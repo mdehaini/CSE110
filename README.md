@@ -1,1 +1,1 @@
-# CSE110
+# Java is my favorite language because it is the superior language :)
