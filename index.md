@@ -3,13 +3,13 @@
 
 ! [](headshot (2).jpg)
 
-(Education)[## Education]
+(Education)[## education]
 
 (Experience)[## Experience]
 (Languages)[## Languages]
 (Professional Goals)[## Professional Goals]
 
-##Education
+## education
 
 - Highschool @ [Rancho Bernado High School](https://www.powayusd.com/en-US/Schools/HS/RBHS/HOME)
 - Bachelors @ [UCSD](https://ucsd.edu/) majoring in Computer Engineering 
