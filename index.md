@@ -1,12 +1,7 @@
 
 # Maryam Dehaini's Page
 
-
-
-(Education)[#education]
-
-
-# Education
+## Education
 
 - Highschool @ [Rancho Bernado High School](https://www.powayusd.com/en-US/Schools/HS/RBHS/HOME)
 - Bachelors @ [UCSD](https://ucsd.edu/) majoring in Computer Engineering 
@@ -57,3 +52,5 @@ public static void main(String[] args){
 }
 ```
 Click [here](meme.jpg) for a meme
+
+(test)[#languages]
