@@ -1,7 +1,7 @@
 
 # Maryam Dehaini's Page
 
-! [image](headshot (2).jpg)
+! [](headshot (2).jpg)
 
 ## Experience
 
