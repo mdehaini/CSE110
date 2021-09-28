@@ -1,6 +1,21 @@
 
 # Maryam Dehaini's Page
 
+[Education |](#education)
+[Experience |](#experience)
+[Languages |](#languages)
+[Professional Goals |](#professional-goals)
+[Favorite Quote |](#favorite-quote)
+[Proof I Can Code |](#proof-i-can-code)
+[Meme](#meme)
+
+![](headshot (2).jpg)
+
+## Education
+
+- Highschool @ [Rancho Bernado High School](https://www.powayusd.com/en-US/Schools/HS/RBHS/HOME)
+- Bachelors @ [UCSD](https://ucsd.edu/) majoring in Computer Engineering 
+
 ## Experience
 
 **AWS Solution Architect**
@@ -29,3 +44,24 @@ reform
 1. Java
 2. C++
 3. C
+
+## Professional Goals
+- [x] Get into university
+- [x] Get an internship
+- [ ] Graduate
+- [ ] Get a full time job
+- [ ] Retire Happily
+
+## Favorite Quote
+>"Start Early ansd Start Often" -UCSD CS Professors
+
+## Proof I Can Code 
+```
+public static void main(String[] args){
+  System.out.println("I Can Code!");
+}
+```
+
+## Meme
+Click [here](meme.jpg) for a meme
+
