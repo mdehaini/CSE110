@@ -3,6 +3,17 @@
 
 ! [](headshot (2).jpg)
 
+(Education)[## Education]
+
+(Experience)[## Experience]
+(Languages)[## Languages]
+(Professional Goals)[## Professional Goals]
+
+##Education
+
+- Highschool @ [Rancho Bernado High School](https://www.powayusd.com/en-US/Schools/HS/RBHS/HOME)
+- Bachelors @ [UCSD](https://ucsd.edu/) majoring in Computer Engineering 
+
 ## Experience
 
 **AWS Solution Architect**
@@ -31,3 +42,20 @@ reform
 1. Java
 2. C++
 3. C
+
+## Professional Goals
+- [x] Get into university
+- [x] Get an internship
+- [ ] Graduate
+- [ ] Get a full time job
+- [ ] Retire Happily
+
+## Favorite Quote
+>"Start Early ansd Start Often" -UCSD CS Professors
+
+## Proof I can Code 
+```
+public static void main(String[] args){
+  System.out.println("I Can Code!");
+}
+```
